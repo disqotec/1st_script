@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
 #remove directory
 
-rm -R ~/Documents/test
+rm -R ~/Documents/lockscreen
+
